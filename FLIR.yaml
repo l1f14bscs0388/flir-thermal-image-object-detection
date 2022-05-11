@@ -1,0 +1,8 @@
+train: Dataset/images/train
+val: Dataset/images/validation
+nc: 4
+names: ["car","person","bicycle","dog"]
+#train: train/thermal_8_bit
+#val: val/thermal_8_bit
+#nc: 9
+#names: ['car', 'truck', 'pickup','tractor','camping car','boat','plane','van','other']
